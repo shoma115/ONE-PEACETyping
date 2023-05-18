@@ -37,7 +37,9 @@ const textList = [
    'reiwoiuorehamadamadatuyokunareru', 'konoorewokoetemiyo!roronoa!','makeinuhaseigiwokatarenele',
    'orenohaikani...tinnpirahairanelenndakozuodomo...!!','itimonnittoudeugoityainelenndayononakaha!',
    'aisitekurete...arigatou!!!','o-na-zehu...!!!nagaiaida...!!!kusoosewaninarimasita!!!',
-   'mouitido...!!!orewonakamaniiretekurele!!!!'
+   'mouitido...!!!orewonakamaniiretekurele!!!!','konoorewodaredatoomotteyagaru!!!','omaegadokonodaredarouto!orehaomaewokoeteiku!!',
+   'ikitaitoiele!!!','itukamataaetara!!mouitidonakamatoyonndekuremasuka!!!?','otokogaitido!!!kanarazukaerutoittanodakara!!!','kisekinamennzyanaiyolo!!!',
+    'kunimo...!onazidarouka...'
 ];
 
 const dialogue = [
@@ -45,7 +47,9 @@ const dialogue = [
     'おれは闇だ!','おれは白ひげだ!!','必ずアニキ救ってこいやァ～～!!!','礼を言う。俺はまだまだ強くなれる',
     'この俺を超えてみよ!ロロノア!','負け犬は正義を語れねぇ','俺の配下に...チンピラは要らねぇんだ小僧ども...!!',
     '一問一答で動いちゃいねぇんだ世の中は!','愛してくれて...ありがとう!!!','オーナーゼフ...!!!長い間...!!!クソお世話になりました!!!',
-    'もう一度...!!!おれを仲間に入れてくれぇ!!!!',
+    'もう一度...!!!おれを仲間に入れてくれぇ!!!!','この俺を誰だと思ってやがる!!!','お前がどこの誰だろうと!俺はお前を超えていく!!',
+    '生きたいと言えェ!!!','いつかまた会えたら!!もう一度仲間と呼んでくれますか!!!?','男が一度!!!必ず帰ると言ったのだから!!!','奇跡ナメんじゃないよォ!!!',
+    '国も...!同じだろうか...'
 
 ]
 
